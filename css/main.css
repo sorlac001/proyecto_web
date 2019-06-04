@@ -1,0 +1,57 @@
+nav.navbar{
+    background-color: #b2dfdb;
+}
+.carousel-inner { 
+    text-align: center; 
+}
+.carousel-item > img{ 
+    display: inline-block; 
+    width: 400px;
+    height: 400px;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: #00897b;
+    border-radius: 5px;
+}
+footer{
+    background-color: #b2dfdb;
+}
+footer > div > div{
+    text-align: center; 
+}
+i.fab{
+    color: #004d40;
+    font-size: 40px;
+}
+i.fab:hover{
+    color: #002721;
+    font-size: 40px;
+}
+.card-img-top{
+    width: 170px;
+    height: 170px; 
+    text-align: center;
+}
+.productoMochila{
+    text-align: center;
+    margin: 0 0 15px 0;
+}
+.card{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.imagenConsulta{
+    width: 75px;
+    height: 75px;
+}
+.imagenMochila{
+    width: 400px;
+    height: 400px;
+}
+.invisible{
+    display: none;
+    color: transparent;
+}
